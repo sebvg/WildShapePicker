@@ -1,0 +1,39 @@
+* {
+	font-family: sans-serif, arial;
+}
+
+#data {
+	color: black;
+	border: 5px solid #000000;
+	border-spacing: 10px 10px;
+	float: left;
+}
+
+.animal:hover {
+	color: white;
+	background-color: black;
+	cursor: pointer;
+}
+
+#base_stats {
+	border-bottom: 3px solid #efefef;
+	border-top: 3px solid #efefef;
+}
+
+hr { 
+   height: 2px;
+   border: none;
+   color: #000000;
+   background-color: #efefef;
+}
+
+h4 {
+	height: 10px;
+}
+
+#profile {
+	margin-left: 50px;
+	width: 60%;
+	float: left;
+	line-height: 1.4em;
+}
